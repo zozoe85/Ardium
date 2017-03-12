@@ -1,0 +1,9 @@
+item.adminsword.name= Admin Sword
+item.adminhelmet.name= Admin Helmet
+item.adminchestplate.name= Admin Chestplate
+item.adminleggins.name=Admin Leggins
+item.adminboots.name=Admin Boots
+
+tile.ardiumold.name= Ardium Old Block
+
+itemGroup.ardium_plus_creative_tabs= Ardium+ 

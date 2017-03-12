@@ -1,0 +1,9 @@
+item.adminsword.name= Epée des Admins
+item.adminhelmet.name= Casque des Admins
+item.adminchestplate.name= Plastron des Admins
+item.adminleggins.name= Jambières des Admins
+item.adminboots.name= Bottes des Admins
+
+tile.ardiumold.name= Bloc d'Ancien Ardium
+
+itemGroup.ardium_plus_creative_tabs= Ardium+
